@@ -1,0 +1,28 @@
+/* Ajustes generales del logo */
+.logo {
+    display: flex;
+    position: relative;
+    left: 300px;
+  }
+  
+  /* Ajuste responsivo del logo */
+  .logo svg {
+    width: 900px;
+    height: auto;
+    transition: width 0.3s ease;
+  }
+  
+  @media (max-width: 600px) {
+    .logo {
+        display: flex;
+        position: relative;
+        left: 300px;
+      }
+    .logo svg {
+        width: 700px;
+        position: relative;
+        left: -332px;
+        bottom: 25px;
+    }
+  }
+  
