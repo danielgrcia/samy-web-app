@@ -1,4 +1,4 @@
-# 📄 Proyecto Web - Vite + React
+# 📄 Proyecto Web - SAMY
 
 ## 🚀 Instrucciones para Ejecutar el Proyecto
 
@@ -67,9 +67,7 @@ Abre tu navegador y visita la URL que aparece en la terminal (normalmente `http:
 
 ## 📬 Contacto
 
-Si tienes alguna duda o sugerencia, no dudes en abrir un issue o contribuir al proyecto.
+Si tienes alguna duda hágamela saber.
 
 ---
-
-¡Gracias por usar esta aplicación! 🚀
 
